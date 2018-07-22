@@ -1,0 +1,14 @@
+{
+  "name": "webstudio/paynow",
+  "description": "Paynow Zimbabwe Laravel Package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tererai Mugova",
+      "email": "tjmugova@webstudio.co.zw"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
